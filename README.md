@@ -1,4 +1,4 @@
 # Homie-convention-C-implementation
-This project implements Homie conventions v4.0.0.
+This project implements Homie conventions v4.0.0. (https://homieiot.github.io/
 
-For deteils look inti documentation/index.html
+For details and usage look into documentation documentation/index.html
